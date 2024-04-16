@@ -2,7 +2,7 @@
 /* Default maven linker script                                          */
 /*======================================================================*/
 /* This is the default linker script for maven. It is based off of the
-   mips idt32.ld linker script. I have added many more comments and
+   mips idt32.ld linker script. I have added many  more comments and
    tried to clean things up a bit. For more information about standard
    MIPS sections see Section 9.5 of "See MIPS Run Linux" by Dominic
    Sweetman. For more generic information about the init, fini, ctors,
